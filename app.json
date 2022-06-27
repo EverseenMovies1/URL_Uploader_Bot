@@ -12,8 +12,8 @@
         "url",
         "uploader"
     ],
-    "repository" : "https://github.com/Badsha114/URL_Uploader_Bot",
-    "success_url" : "https://t.me/URL_UploaderAJ_Bot",
+    "repository" : "https://github.com/EverseenMovies1/URL_Uploader_Bot",
+    "success_url" : "https://t.me/EsmUpload_bot",
     "env" : {
         "BOT_TOKEN" : {
             "description" : "Get From https://t.me/BotFather"
